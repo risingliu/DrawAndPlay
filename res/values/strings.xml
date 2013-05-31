@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrawAndPlay</string>
+	<string name="gestureNoExist">无法识别该手势～请重来～</string>
+	
+</resources>
